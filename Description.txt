@@ -1,0 +1,129 @@
+[h1][b]Overview[/b][/h1]
+"Moon Sprout" is a comprehensive skill overhaul mod for Wormwood in DST. It has enhanced the personal quality of life, single-player combat efficiency and team assistance capabilities of Wormwood. By freely combining multiple skill lines, you can create the most suitable gameplay route for yourself.
+
+[h1][b]Core Foundation - Moon Sprout[/b][/h1]
+The initial skill includes:
+
+[b]Seed Sleuth:[/b] Wormwood retains seed identification ability. While blooming, healing foods now replenish BP(Blooming Point). Finally, Pierogi becomes a viable food choice!
+
+[b]Lunar affinity:[/b] Gain dynamic bonuses based on moon phases, with +10% Lunar affinity during full moon.
+
+[b]Lune Tree Blossom System:[/b][list]
+[*]Craftable Lune Blossom serves as the foundation for exclusive items and advanced skills.
+[*]Examine blossoms anytime to check current BP. During bloom state, freshness mirrors BP.
+[*]Consuming blossoms activates "Skill-Ready State," enabling advanced skill usage at BP cost.
+[*]Infused Lune Tree Blossoms crafted with Pure Brilliance trigger "Infused State" for higher-tier abilities.
+[/list]
+
+BP becomes the key resource for advanced skills, making bloom maintenance essential.
+
+[h1][b]Farming Skill Line[/b][/h1]
+The new farming skills are universal abilities that require no additional skill points - after all, we Wormwoods have loved farming since we were sprouts!
+
+[b]Plant Friend Protector:[/b][list]
+[*]Digging up planted seeds or growing crops returns their corresponding seeds.
+[*]Digging up withered saplings, grass tufts and other plants won't destroy them.
+[*]Plant digging incurs 5 sanity penalty (can disable penalty in config).
+[/list]
+
+[b]Root Catalytic Barrel:[/b][list]
+[*]25-slot food storage container with upgradeable preservation capabilities.
+[*]Enables directed seed mutation using Lune Tree Blossoms as energy source. Arrange seeds and blossoms in specific patterns to convert excess seeds into desired varieties.
+[/list]
+
+Q: I can't figure out the patterns! These puzzles are too hard...
+A: Try filling the barrel with the same vegetable in every slot! It'll show you how it's done!
+
+More farming skills will blossom in future updates!
+
+[h1][b]Companion Path[/b][/h1]
+Plant crafting no longer requires skill points. Instead, an expanded companion summoning system emerges:
+
+[b]New Mechanics:[/b][list]
+[*]All companions now have 10% Lunar affinity.
+[*]Pocket companions: Store small creatures in inventory - no more leaving slow pets behind.
+[*]Feed companions: Vegetarian food extends lifespan and heals them; Infused Blossoms grant planar affinity.
+[*]"Beep-Boop Dictionary":A beginner's guide to Moon Island language. Learn to command your pets—tell them when to attack and when to back off.
+[/list]
+
+[b]New Companions:[/b][list]
+[*]Salamander: Allows it to grow to maturity in two days, with increased damage and the ability to perform range fire attacks.
+[*]Grass Gator: 9-slot mobile storage.
+[*]Piko: Collect items for you just like W.O.B.O.T..
+[*]Venus Flytrap: Grows to 1600 HP after 50 feedings, gaining planar resistance/damage.
+[*]Elder Mandrake: Each attack accumulates 1 sleepness to enemy, disrupting enemy attack patterns.
+[/list]
+
+[h1][b]Mushroom Path[/b][/h1]
+[b]Mushroom Culturist:[/b] Merged mushroom growth/yield skills reduce specialization points.
+
+[b]Mushroom Buffs:[/b]
+Consuming colored mushrooms grants temporary buffs (non-stackable). Each use has a chance to unlock corresponding hat blueprints.
+[list]
+[*]Red: +10% damage.
+[*]Blue: -15% damage taken.
+[*]Green: +20% Lunar affinity.
+[*]Shroomcake: Half-strength versions of all buffs.
+[*]Stuffed Night Cap: One consumption causes all creatures to be forced to sleep with you. After waking up, their attack power drops significantly for a period of time. Meanwhile, Wormwood enters a drowsy state and gains a powerful hypnotic aura.
+[/list]
+
+[b]Mushroom Bomb:[/b] Throwable bombs dealing AoE damage. When fully spoiled, becomes Toxic Spore Bomb applying poison.
+
+[b]Mushroom Hats:[/b][list]
+[*]Damage Absorption: 50% damage reduction
+[*]Tri-Hats: Provide corresponding buffs. When bloom-activated, consume BP for team aura.
+[*]Moon Cap: Attacks stack random buffs. Infused state doubles effectiveness.
+[/list]
+
+[h1][b]Bramble Path[/b][/h1]
+[b]Poison Birch:[/b]When fighting near the birchnut tree, there is a chance to receive assistance from the poisonous birchnut tree. Consume 300 BP after eating Lune Blossom to transform planted birch nuts into chaos-causing tree guards.
+
+[b]Ivy Staff:[/b][list]
+[*]Basic: Roots enemies in place.
+[*]Throw: Creates bramble walls to trap foes.
+[*]Infused Throw: Summons Lunarplant allies for combat support.
+[/list]
+
+[h1][b]Blooming Path[/b][/h1]
+[b]Efficient Absorption:[/b] Faster fertilizing, Growth Formula accelerates bloom by 30%, fertilizer healing +50%.
+
+[b]Photosynthesis and Energy Distribution System:[/b][list]
+[*]Now works at dusk (50% efficiency), compensating for seasonal weaknesses.
+[*]Wetness boosts efficiency.
+[/list]
+[b]Energy gained from photosynthesis is allocated based on priority to the following tasks:[/b][list]
+[*]Restoring health (if not at full).
+[*]Restoring Bloom Points (if below 1,800).
+[*]Maintaining freshness of Charged Moon Tree Blossoms and Moon Moths in inventory/backpack.
+[*]Refreshing durability of special equipment (e.g., Bramble Staff and Mushroom Hats).
+[*]Sustaining summoned companions (pausing their lifespan and planar timers).
+[*]Producing Butter with any remaining energy.
+[/list]
+
+[b]Radiant Bloom:[/b] Full bloom grants 180 insulation. While blooming, wearing Enlightenment Crown or no headgear doubles all bloom bonuses and the efficiency of photosynthesis. Who wouldn't want to admire those magnificent petals?
+
+[b]Lunar Tree Therapy:[/b][list]
+[*]High BP attracts catchable Moon Moths (barehanded). 
+[*]Consume 1200 BP after eating Lune Blossom to plant moon moth that grow into rapid-healing trees (210 HP over 60s in AoE).
+[*]The Mothling you adopted has an energy supply system similar to yours. It can obtain lunar energy under the moonlight and can heal nearby injured players as well as help you with energy supply tasks.
+[/list]
+
+[b]Moonlight Descent:[/b][list]
+[*]Opal Staff auroras grant +10% Lunar affinity to nearby allies.
+[*]During bloom: 600 BP creates freezing aurora (120s duration).
+[*]With Infused Blossom: 1800 BP summons Enlightenment Field, calling Gestalts and Grazers to purge shadow threats (240s).
+[/list]
+
+"Moon Sprout" establishes Bloom Point as a core resource, solving HP economy issues while making healing foods reward-efficient.
+
+In the future, I will consider updating some skills related to farming to enhance the irreplaceability of Womwood farming.
+
+[h3]-----------------------------------------------------------------------[/h3]
+
+[h3]This mod currently does not support more skill points. When the number of activated skill points exceeds 15, it may cause a crash. I'm currently analyzing the reasons. Please understand.[/h3]
+
+[h3]-----------------------------------------------------------------------[/h3]
+
+As a first-time modder with moderate playtime, I don't claim deep expertise in DST's mechanics. All suggestions and ideas are welcome! 
+
+The mod includes extensive configuration options to tailor Wormwood to your preferences. Please report any bugs with crash logs - I'll prioritize fixes. Thank you for your support!
